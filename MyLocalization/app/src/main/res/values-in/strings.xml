@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MyLocalization</string>
+    <string name="address">Alamat</string>
+    <string name="hobby">Hobi</string>
+    <string name="my_hobby">Bermain Video game</string>
+    <string name="my_quotes">Makan untuk hidup, bukan hidup untuk makan</string>
+    <string name="quotes">Kata Mutiara</string>
+    <string name="social_media">Media Sosial</string>
+    <string name="tab_text1">Beranda</string>
+    <string name="tab_text2">Profil</string>
+
+    <string name="football">Tim Nasional Indonesia meraih kemenangan atas Tim Nasional Thailand</string>
+    <string name="goal">Goal dari indonesia dicetak oleh %1$s dan %2$s, jadi skor akhirnya adalah %3$d - %4$d atas kemenangan Indonesia </string>
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d lagu ditemukan.</item>
+        <item quantity="other">%d lagu ditemukan.</item>
+    </plurals>
+
+    <string name="app_homeurl">
+        Kunjungi kami di <xliff:g id="homepage">https://www.polines.ac.id</xliff:g>
+    </string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+</resources>
