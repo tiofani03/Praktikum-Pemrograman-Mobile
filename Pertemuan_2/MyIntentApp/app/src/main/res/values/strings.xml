@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MyIntentApp</string>
-    <string name="move">Move Activity</string>
-    <string name="move_data">Move Activity With Data</string>
-    <string name="call">Panggilan</string>
-    <string name="data_diterima">Data Diterima</string>
-    <string name="open_Igracias">Buka Igracias</string>
-    <string name="intent_explicit">Intent Explicit</string>
-</resources>
