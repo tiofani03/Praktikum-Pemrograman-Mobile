@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509682779138",
+    "firebase_url": "https://daftarbelanja-22afa.firebaseio.com",
+    "project_id": "daftarbelanja-22afa",
+    "storage_bucket": "daftarbelanja-22afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509682779138:android:579a2975dbf589e16b131b",
+        "android_client_info": {
+          "package_name": "com.example.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509682779138-qlllp1i7oita4f5d19bcejpp5oub2q9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daftarbelanja",
+            "certificate_hash": "a7a96bbe93857d0685a4f78d70429377cded61cb"
+          }
+        },
+        {
+          "client_id": "509682779138-1eqej35vm03cf56n4q4ler55pb95qg65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbdvPuXZyKLtkn0u73LGdUv0zrvbQJFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509682779138-1eqej35vm03cf56n4q4ler55pb95qg65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
